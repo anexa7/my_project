@@ -24,6 +24,7 @@ It focuses on identifying the main factors influencing employee turnover, such a
 - Power BI
 - Excel
 - Chatgpt
+- Azure ML
 - Zapier
 - GitHub Pages
   
